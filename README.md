@@ -11,6 +11,13 @@ The aim is to uncover hidden signals that can inform smarter trading strategies.
 - `notebook_1.ipynb` — Jupyter notebook with full analysis  
 - `Data Science Assignment Report.pdf` —  project report  
 
+⚠️ Note: The `historical_data.csv` file is not included in this repository due to size limits.  
+Please download it separately from Google Drive before running the notebook:  
+
+[Download historical_data.csv (Google Drive)](https://drive.google.com/file/d/1RSIUk6PH0yD2DSS7JlE2DjIaM3BAoNRF/view?usp=sharing)
+
+Place the file in the `CSV_files/` folder of this repository to reproduce the results.
+
 
 ---
 
@@ -59,3 +66,4 @@ The aim is to uncover hidden signals that can inform smarter trading strategies.
 2. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
